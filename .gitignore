@@ -1,0 +1,6 @@
+# Ignorar directorios de caché de Python
+__pycache__/
+*.py[cod]
+
+# Ignorar archivos de caché de pruebas
+*.pytest_cache/
